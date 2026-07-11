@@ -1,0 +1,10 @@
+{
+  "name": "mff-monnify",
+  "version": "1.0.0",
+  "description": "Monnify Payment forms for WordPress",
+  "scripts": {
+    "build-pot": "wp i18n make-pot . languages/payment-forms-for-monnify.pot",
+    "build-mopo": "rm -R languages/payment-forms-for-monnify-en_EN.mo && cp languages/payment-forms-for-monnify.pot languages/payment-forms-for-monnify-en_EN.po && wp i18n make-mo languages",
+    "translate-US": "cp languages/payment-forms-for-monnify-en_EN.po languages/payment-forms-for-monnify-en_US.po && cp languages/payment-forms-for-monnify-en_EN.mo languages/payment-forms-for-monnify-en_US.mo"
+  }
+}
