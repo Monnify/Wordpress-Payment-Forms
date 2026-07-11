@@ -2,7 +2,7 @@
 Contributors: monnify
 Tags: monnify, forms, payments, donation
 Requires at least: 5.0
-Tested up to: 6.8.1
+Tested up to: 7.0
 Stable tag: 1.0.0
 Requires PHP: 7.4
 License: GPLv2 or later
@@ -30,7 +30,6 @@ To create a form to allow your users buy or pay for value in quantity.
 *  Custom form fields (text, textarea, file upload, checkbox, radio, select, datepicker)
 *  Fixed, minimum, or variable-dropdown pricing
 *  Quantity and inventory tracking
-*  Split payments to a Monnify sub account
 *  Invoice, receipt and site-owner receipt emails
 *  Webhook listener for asynchronous transfer/USSD payment confirmation
 *  Payments admin list with CSV export
