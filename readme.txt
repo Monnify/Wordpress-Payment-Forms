@@ -2,7 +2,7 @@
 Contributors: monnify
 Tags: monnify, forms, payments, donation
 Requires at least: 5.0
-Tested up to: 7.0
+Tested up to: 7.0.1
 Stable tag: 1.0.0
 Requires PHP: 7.4
 License: GPLv2 or later
