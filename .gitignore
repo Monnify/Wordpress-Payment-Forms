@@ -46,3 +46,6 @@ wp-config.php
 # Note: If you wish to whitelist themes,
 # uncomment the next line
 #/wp-content/themes
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
